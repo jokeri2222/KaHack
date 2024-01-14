@@ -1,6 +1,6 @@
 # KaHack!
 ## Description
-This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla js but tested only on chromium browsers.
+This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla js and queryselector but tested only on chromium browsers.
 
 ## Instructions
  1. Open the KaHack!.user.js
