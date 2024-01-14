@@ -1,6 +1,7 @@
 
 # KaHack!
 
+## Description
 This is a kahoot hack made for chrome browser and Tampermonkey. Click the KaHack!.user.js and then click raw to install this to Tampermonkey or copy-paste the code into the console. The quiz id is shown on the host's screen.
 
 ## Features
