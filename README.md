@@ -1,4 +1,7 @@
 # KaHack!
+
+![preview](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/preview.png)
+
 ## Description
 This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla js but tested only on chromium browsers.
 
