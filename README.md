@@ -1,7 +1,5 @@
 # KaHack!
 
-![preview](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/preview.png)
-
 ## Description
 This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla js but tested only on chromium browsers.
 
@@ -14,6 +12,8 @@ This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla 
 
 ## Features
 Latest version includes Auto Answer, Show Answers and answer speed. Only quiz and multiselect answers are supported. Type answers and everything else are not supported yet. By pressing "h" on your keyboard it will hide the menu. You can drag the menu from the top bar and minimize and close if you want. Closing the cheat will end the script and will not auto answer or show the answers. You can use this as a panic button.
+
+![preview](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/preview.png)
 
 ## Donations
 If you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you!
