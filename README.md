@@ -18,4 +18,4 @@ Latest version includes Auto Answer, Show Answers and answer speed. Only quiz an
 ## Donations
 If you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you!
 
-<center>[![](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)</center>
+[![](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)
