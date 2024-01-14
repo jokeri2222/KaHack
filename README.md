@@ -1,19 +1,15 @@
-
 # KaHack!
-
 ## Description
 This is a kahoot hack made for chrome browser and Tampermonkey. Made in vanilla js but tested only on chromium browsers.
 
 ## Instructions
-1.Click the KaHack!.user.js
-2.Click raw to install this to Tampermonkey or 3.copy-paste the code into the console. 
-
-4.Type in the quiz id. The quiz id is shown on the host's screen.
+ 1. Open the KaHack!.user.js
+ 2. Click raw to install this script to Tampermonkey or copy-paste it yo the console.
+ 3. Type in the quiz id. Ylu should see it on the hosts screen. If the quiz id blx is still red after typing in the right quiz id that means the kahoot is private and this cannot be used with it.
+ 4. Have happy cheating :) Tip don't put the points slider over 987 it will cause the points to be 1000 automatically because that's how Kahoot calculates the points. Try to make the points to be as non suspicous as possible.
 
 ## Features
-Latest version includes Auto Answer, Show Answers and answer speed. Only quiz and multiselect answers are supported. Type answers and everything else are not supported yet.
+Latest version includes Auto Answer, Show Answers and answer speed. Only quiz and multiselect answers are supported. Type answers and everything else are not supported yet. By pressing "h" on your keyboard it will hide the menu. You can drag the menu from the top bar and minimize and close if you want. Closing the cheat will end the script and will not auto answer or show the answers. You can use this a panic button.
 
 ## Donations
-If you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you!
-
-[![Donate with PayPal](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/paypal-donate-button.png)]([https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y](https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)
+If you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you![![Donate with PayPal](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/paypal-donate-button.png)]([https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y](https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS)
