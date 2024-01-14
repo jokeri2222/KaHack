@@ -16,6 +16,8 @@ Latest version includes Auto Answer, Show Answers and answer speed. Only quiz an
 
 ## Donations
 If you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you!
-<div style="text-align: center;">
- [![Donate with PayPal](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/paypal-donate-button.png)]([https://www.paypal.com/donate/?hosted_button_id=GCSTRCWKJ6RTS])
-</div>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="GCSTRCWKJ6RTS" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_FI/i/scr/pixel.gif" width="1" height="1" />
+</form>
