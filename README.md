@@ -17,7 +17,7 @@ The latest version includes Auto Answer, Show Answers, and Answer Speed. Only qu
 ![preview](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/screenshot.png)
 
 ## Credits
-Huge thanks to [Epic0001](https://github.com/Epic0001) for bug testing and general bug fixing.
+Huge thanks to [Epic0001](https://github.com/Epic0001) for bug testing and general bug fixing. Without his help, this project would be way outdated and not fully working piece of cheatware.
 
 ## Donations
 The cheat is free to use but if you respect me and my work and you want to support me in making these hacks and updating them. Here is a way to donate to me and it really helps me. Thank you!
