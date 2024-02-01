@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         KaHack!
-// @version      1.0.19
+// @version      1.0.20
 // @namespace    https://github.com/jokeri2222
 // @description  A hack for kahoot.it!
 // @updateURL    https://github.com/jokeri2222/Kahoot-Hack/raw/main/KaHack!.meta.js
