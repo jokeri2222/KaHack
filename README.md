@@ -1,7 +1,6 @@
 
 # KaHack!
 
-![downloads](https://hitwebcounter.com/counter/counter.php?page=11152888&style=0006&nbdigits=9&type=ip&initCount=0)
 
 ## Description
 This is a Kahoot hack made for Chrome browser and Tampermonkey. Made in vanilla js but tested only on Chromium browsers.
