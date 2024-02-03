@@ -13,7 +13,7 @@ This is a Kahoot hack made for Chrome browser and Tampermonkey. Made in vanilla 
  4. Have happy cheating :). Also here is another tip don't put the points slider over 987 it will cause the points to be 1000 automatically because that's how Kahoot calculates the points. Try to make the points as non-suspicious as possible. By pressing Alt+h you can hide the menu.
 
 ## Features
-The latest version includes Auto Answer, Show Answers, and Answer Speed. Only quiz and multi-select answers are supported. Type answers and everything else are not supported yet. By pressing Alt+h on your keyboard it will hide the menu. You can drag the menu from the top bar and minimize and close if you want. Closing the cheat will end the script and will not auto-answer or show the answers. You can use this as a panic button.
+The latest version includes Auto Answer, Show Answers, and Answer Speed. Only quiz and multi-select answers are supported. Type answers and everything else are not supported yet. By pressing Alt+h on your keyboard it will hide the menu and by pressing Alt+x it will terminate the menu. You can drag the menu from the top bar and minimize and close if you want. Closing the cheat will end the script and will not auto-answer or show the answers. You can use this as a panic button.
 
 ![preview](https://raw.githubusercontent.com/jokeri2222/Kahoot-Hack/master/screenshot.png)
 
