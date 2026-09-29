@@ -1,5 +1,5 @@
 
-# KaHack!
+# KaHack! [Deprecated]
 
 
 ## Description
